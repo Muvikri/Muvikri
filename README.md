@@ -1,36 +1,42 @@
 <h1 align="center">Hai, aku Vito 👋</h1>
 
 <p align="center">
-Junior dev yang suka ngoprek bot & tools kecil-kecilan.<br/>
-Belajar sambil bikin project buat dipake sendiri (atau temen).
+  Suka ngoprek bot, backend, dan hal-hal random yang kadang awalnya cuma karena penasaran.
 </p>
 
-<br/>
+---
 
-## 🛠️ Project yang lumayan aku banggain
+## Beberapa project yang lagi / pernah dikerjain
 
-**[vyrikoMD](https://github.com/Muvikri/vyrikoMD)**
-WhatsApp bot buatan sendiri, isinya macem-macem fitur iseng sampe yang lumayan guna.
+### [vyrikoMD](https://github.com/Muvikri/vyrikoMD)
 
-**[pranatawicaksana](https://github.com/Muvikri/pranatawicaksana)**
-Awalnya bot WhatsApp juga, tapi udah *discontinued* di sana. Lagi mikir mau dilanjut ke Discord.
+Bot WhatsApp dengan berbagai macam fitur. Ada yang berguna, ada juga yang awalnya cuma dibuat karena kepikiran aja.
 
-**[fixkrVD](https://github.com/Muvikri/fixkrVD)**
-Backend sederhana buat download video dari berbagai platform, pake `yt-dlp`.
+> Repository-nya private, tapi servicenya bisa digunakan lewat [pairing.fixkr.my.id](https://pairing.fixkr.my.id).
 
-<br/>
+### [pranatawicaksana](https://github.com/Muvikri/pranatawicaksana)
 
-## 📊 Stats
+Project bot WhatsApp yang sudah tidak dilanjutkan di WhatsApp. Mungkin suatu saat bakal dicoba dibawa ke Discord.
+
+### [fixkrVD](https://github.com/Muvikri/fixkrVD)
+
+Backend sederhana untuk download video dari berbagai platform menggunakan `yt-dlp`.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Muvikri&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muvikri&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Muvikri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Muvikri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muvikri&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muvikri&theme=tokyonight&hide_border=true" />
 </p>
 
-<br/>
+---
 
-<p align="center"><i>masih belajar, jangan expect terlalu tinggi 😄</i></p>
+<p align="center">
+  <i>Masih belajar dan masih sering ngulik hal-hal random.</i>
+</p>
